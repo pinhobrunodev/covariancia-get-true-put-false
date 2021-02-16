@@ -10,6 +10,7 @@
         intList.add(20);
 
         ⚠️ Vamos receber uma lista que seja subtipo de Number ou propio Number. 
+        
         List<? extends Number> list = intList;
          
         
