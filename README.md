@@ -12,6 +12,8 @@
         ⚠️ Vamos receber uma lista que seja subtipo de Number ou propio Number. 
         
         List<? extends Number> list = intList;
+        
+        . No caso, foi tipo Integer(subtipo de Number)
          
         
         ✅ GET OK !         
